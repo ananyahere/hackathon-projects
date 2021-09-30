@@ -1,0 +1,10 @@
+/drawing-app/node_modules
+/drawing-app/.env
+/music-maker/node_modules
+/music-maker/.env
+/password-generator/node_modules
+/password-generator/.env
+/space-invaders/node_modules
+/space-invaders/.env
+/whac-a-mole/node_modules
+/whac-a-mole/.env
